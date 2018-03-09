@@ -1,7 +1,15 @@
 body{
     margin:5%;
+    background-color: lightgrey;
 }
 
 .gifTopic{
 margin:3px;
+background-color: white;
 }
+
+#add-topic{
+    margin:3px;
+    background-color: white;
+}
+
